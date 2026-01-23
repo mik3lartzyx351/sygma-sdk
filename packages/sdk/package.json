@@ -74,7 +74,7 @@
     "typescript": "5.0.4"
   },
   "dependencies": {
-    "@buildwithsygma/sygma-contracts": "2.1.2",
+    "@buildwithsygma/sygma-contracts": "2.5.1",
     "@ethersproject/abi": "^5.7.0",
     "@ethersproject/bytes": "^5.7.0",
     "@ethersproject/contracts": "^5.7.0",
@@ -89,6 +89,6 @@
     "@polkadot/util-crypto": "12.2.1",
     "axios": "^1.4.0",
     "cross-fetch": "^3.1.5",
-    "ethers": "5.6.2"
+    "ethers": "6.0.0"
   }
 }
